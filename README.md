@@ -7,4 +7,4 @@ Use your phone as the companion of your keyboard, cusomize your F13-F24 key and 
 
 
 ![screenshot](https://i.imgur.com/AOjdCZC_d.webp?maxwidth=760&fidelity=grand)
-![screenshot](https://imgur.com/fbR0d1M)
+![screenshot](https://i.imgur.com/fbR0d1M_d.webp?maxwidth=760&fidelity=grand)
