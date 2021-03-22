@@ -5,8 +5,7 @@ Use your phone as the companion of your keyboard, cusomize your F13-F24 key and 
 - AHK is a autohotkey script, you can write your own script of your function key, or as extra keyboard key
 - Print.py is a sample code that showing you AHK can call python code
 
-| Syntax      | Description |
+| Screenshot      | Screenshot |
 | ----------- | ----------- |
 | ![screenshot](https://i.imgur.com/AOjdCZC_d.webp?maxwidth=760&fidelity=grand)      | ![screenshot](https://i.imgur.com/fbR0d1M_d.webp?maxwidth=760&fidelity=grand)       |
-| Paragraph   | Text        |
 
