@@ -6,4 +6,5 @@ Use your phone as the companion of your keyboard, cusomize your F13-F24 key and 
 - Print.py is a sample code that showing you AHK can call python code
 
 
-![screenshot](https://imgur.com/a/v0i3f9K)
+![screenshot](https://i.imgur.com/AOjdCZC_d.webp?maxwidth=760&fidelity=grand)
+![screenshot](https://imgur.com/fbR0d1M)
